@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
           <h2>event log</h2>
           <ul>
-            <li>unity1week 参加作品</li>
+            <li>unity 1 週間ゲームジャム(2022.09 「ためる」) 参加作品</li>
             <a href="https://unityroom.com/games/borobaketsu_bakkun">
               <img 
                 src="/u1w_baketsu.gif"
@@ -28,12 +28,12 @@ export default function Home() {
               <ul>
                 <li>
                   <a href="https://twitter.com/search?q=%23%E6%B7%B1%E5%A4%9C%E3%81%AE2%E6%99%82%E9%96%93DTM%20from%3A%40zundou_&src=typed_query&f=live">
-                    「#深夜の2時間DTM」 参加ログ
+                    「#深夜の2時間DTM」 過去の参加作品一覧
                   </a>
                 </li>
                 <li>
                   <a href="https://twitter.com/search?q=%2310%E5%88%86%E3%83%89%E3%83%83%E3%83%88%20from%3A%40zundou_&src=typed_query&f=live">
-                    「#10分ドット」 参加ログ
+                    「#10分ドット」 過去の参加作品一覧
                   </a>
                 </li>
               </ul>
